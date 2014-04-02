@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/rickdailey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://rckd.ly
+  * I am rickdailey (https://keybase.io/rickdailey) on keybase.
+  * I have a public key with fingerprint 0AC3 928A D4A1 4972 62CE  598F D09A 72A3 F79B 5346
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0ac3928ad4a1497262ce598fd09a72a3f79b5346",
+            "host": "keybase.io",
+            "key_id": "d09a72a3f79b5346",
+            "uid": "1c57d64ef4a6237ec4984bc0c6ee1000",
+            "username": "rickdailey"
+        },
+        "service": {
+            "hostname": "rckd.ly",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396455694,
+    "expire_in": 157680000,
+    "prev": null,
+    "seqno": 1,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMG5AnicbZFvSBNhHMdns2yzRPtrySCOQqNDb7fb3W5G1htLX5SQL0qk8ezu2fbg
+dbdut5UOG6a4jFATohcm1IsiXxhDHcwUXWlQ2CRQexGWBlZgLyQjKqvhc5LvevVw
+39/n+/t+n3smthsN5oxI+0py1thlyZhMxoKGs0f5nDDhVsR6whkm6uD64UGyF6p+
+Fcka4SQoINh42gFEBlgZnqNZWoB23uERKR5wNLB5ON5ttzEsQRI+JaA78Bo3CMBi
+pGANf7iQiNX/8MH1gVWwcyLLQA8DWNrGQYHhHYxboAQWQitFUToYgKoMLkJMq0io
+EwGScNVGksB6CAlYD6+HbzAYKZbqsdGvKpoiKBIWfZrmd+oerd6vQ5eh2/XP7nIj
+WcSXxoYQVANIkQmnFZOChvR9VhvPMnY7yzMkAa/4kQpdSCfsHOvA/Sg9BoYIpxyU
+JL3SJVnBUxwEvDgngLwy0IIqJBqfJWszDRlmw5bNm/QfbzCbcjeeI61kpQ81j70r
+z0+cKarpnVnoXj2lJX5RX4dmc2orE23lu/oBG0uNty/3nfRWWdrG2iRz6cekifS1
+cn8Mo70xNjJ+oiR6t2e4dSYuXZjyFdChwVhDJO90srTrecXVsG2yur/vycijjjlR
++F18fDeZ5RgoM6rk4+6OqvTD8eWROB0yy9lD/T+no+8XlvJercStjkTRmwMFSy+u
+JTgXNXH4y8Lq1hK2pjMVNUduL35P7c+9c77n6V9Gbro/9cM0sHNudHBYnkpXFB7b
+cSM+9oHcm9/5mTG2bNt35MGequh8363CT5aGt+c6bk7fazJlV35bPNjwOrNsXrre
+/DIv1WKpXgOkjwMo
+=m900
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rickdailey
+
+==================================================================
+
