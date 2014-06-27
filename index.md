@@ -3,4 +3,5 @@ title: Home Page
 layout: main
 ---
 
-        <p>Content to be supplied.</p>
+Content to be supplied.
+
