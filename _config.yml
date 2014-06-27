@@ -4,4 +4,4 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      layout: "main.html"
+      layout: "main"
