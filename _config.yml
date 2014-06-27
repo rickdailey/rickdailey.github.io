@@ -1,1 +1,5 @@
 include: [".well-known"]
+gems:
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
